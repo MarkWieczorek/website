@@ -171,6 +171,10 @@
         {%- capture link -%}https://{{ site.mastodon_instance }}/@{{ site.mastodon_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
+    {%- if site.matrix_username -%}
+        {%- capture link -%}https://matrix.to/#/@{{ site.matrix_username }}:{{ site.matrix_instance }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
     {%- if sameaslinks != blank -%}
         {%- assign sameaslinks = sameaslinks | split: "" -%}
     {%- endif -%}

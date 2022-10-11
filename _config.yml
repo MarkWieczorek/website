@@ -94,7 +94,8 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 mastodon_username: mrak  # your mastodon username, without @
 mastodon_instance: fosstodon.org  # address of the mastodon server
-
+matrix_username: mark-wieczorek
+matrix_instance: matrix.org
 contact_note:
 
 # -----------------------------------------------------------------------------
