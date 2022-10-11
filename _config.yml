@@ -10,16 +10,16 @@ email: mark.wieczorek@cnrs.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mark Wieczorek's web site at the Institut de Physique du Globe de Paris.
 footer_text: >
-  <a href="https://www.ipgp.fr/" target="_blank">Institut de Physique du Globe de Paris</a><br />
-  <a href="https://u-paris.fr/en/" target="_blank">Université Paris Cité</a><br />
-  <a href="https://www.cnrs.fr/en" target="_blank">Centre National de la Recherche Scientifique</a>
+  <a href="https://www.ipgp.fr/" target="_blank" style="text-decoration: none; color: var(--global-text-color-light)">Institut de Physique du Globe de Paris</a><br />
+  <a href="https://u-paris.fr/en/" target="_blank" style="text-decoration: none; color: var(--global-text-color-light)">Université Paris Cité</a><br />
+  <a href="https://www.cnrs.fr/en" target="_blank" style="text-decoration: none; color: var(--global-text-color-light)">Centre National de la Recherche Scientifique</a>
 keywords: Mark Wieczorek, planetary science, geophysics, gravity, topograpy, magnetics, Moon, Mars, shtools, pyshtools
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://markwieczorek.github.io # the base hostname & protocol for your site
-baseurl: /website/ # the subpath of your site, e.g. /blog/
+baseurl: /website # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -231,8 +231,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Wieczorek]
-  first_name: [Mark A., Mark A, Mark, M. A., M A, M, MA]
+  last_name: # [Wieczorek]
+  first_name: # [Mark A., Mark A, Mark, M. A., M A, M, MA]
 
   style: apa
   locale: en

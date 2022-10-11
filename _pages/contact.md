@@ -6,17 +6,17 @@ description:
 nav: true
 nav_order: 6
 ---
-**in person**
-* **<font color="gray">office :</font>** 715, Lamarck A
-* **<font color="gray">mailing address :</font>** PSS, Institut de Physique du Globe de Paris, 1 rue Jussieu, 75238 Paris cedex 05
-* **<font color="gray">phone :</font>** +33 1 57 27 84 30‬
+<font style="font-family: monospace; font-weight: bold">in person</font>
+* <span style="color: var(--global-text-color-light)">office :</span> 715, Lamarck A
+* <span style="color: var(--global-text-color-light)">mailing address :</span> PSS, Institut de Physique du Globe de Paris, 1 rue Jussieu, 75238 Paris cedex 05
+* <span style="color: var(--global-text-color-light)">phone :</span> +33 1 57 27 84 30‬
 
-**online**
-* **<font color="gray">keybase :</font>** [keybase.io/markwieczorek](https://keybase.io/markwieczorek)
-* **<font color="gray">[matrix] :</font>** [@mark-wieczorek:matrix.org](https://matrix.to/#/@mark-wieczorek:matrix.org)
-* **<font color="gray">email :</font>** [&#109;&#097;&#114;&#107;&#046;&#119;&#105;&#101;&#099;&#122;&#111;&#114;&#101;&#107;&#064;&#099;&#110;&#114;&#115;&#046;&#102;&#114;](mailto:&#109;&#097;&#114;&#107;&#046;&#119;&#105;&#101;&#099;&#122;&#111;&#114;&#101;&#107;&#064;&#099;&#110;&#114;&#115;&#046;&#102;&#114;)
-* **<font color="gray">mastodon :</font>** [@mrak@fosstodon.org](https://fosstodon.org/web/@mrak)
-* **<font color="gray">github :</font>** [MarkWieczorek](https://github.com/MarkWieczorek)
+<font style="font-family: monospace; font-weight: bold"><b>online</b></font>
+* <span style="color: var(--global-text-color-light)">keybase :</span> [keybase.io/markwieczorek](https://keybase.io/markwieczorek)
+* <span style="color: var(--global-text-color-light)">[matrix] :</span> [@mark-wieczorek:matrix.org](https://matrix.to/#/@mark-wieczorek:matrix.org)
+* <span style="color: var(--global-text-color-light)">email :</span> [&#109;&#097;&#114;&#107;&#046;&#119;&#105;&#101;&#099;&#122;&#111;&#114;&#101;&#107;&#064;&#099;&#110;&#114;&#115;&#046;&#102;&#114;](mailto:&#109;&#097;&#114;&#107;&#046;&#119;&#105;&#101;&#099;&#122;&#111;&#114;&#101;&#107;&#064;&#099;&#110;&#114;&#115;&#046;&#102;&#114;)
+* <span style="color: var(--global-text-color-light)">mastodon :</span> [@mrak@fosstodon.org](https://fosstodon.org/web/@mrak)
+* <span style="color: var(--global-text-color-light)">github :</span> [MarkWieczorek](https://github.com/MarkWieczorek)
 
 <br />
 

@@ -20,6 +20,8 @@ bundle exec jekyll serve
 ```
 This will allow you to inspect your web page locally at `http://127.0.0.1:4000` and will also generate the static web site in the directory `_site`.
 
+To serve your website on github, after you make your first commit, a branch `gh-pages` will be created with the static web pages. Under the settings for Pages, choose the Build and deployment branch to be gh-pages/root.
+
 ## For experts
 
 There are lots of features in the al-folio theme that are not used here, like a news feed, a blog, dropdown menus, highly customizable publication formatting, etc. Please see the [example web pages](https://github.com/alshedivat/al-folio) for inspiration on what else can be done!
