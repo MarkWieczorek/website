@@ -1,6 +1,6 @@
 # IPGP generic web site
 
-This repo can be used to construct a simple static web site for use with the Institut de Physique du Globe de Paris. It is based on Jekyll that converts markdown/yml formatted files into a static html web site. The static html web site can then be hosted on any web server, or alternatively, you can easy set this repo up to host your web site automatically on github. The web site uses the [al-folio theme](https://github.com/alshedivat/al-folio) with only a few minor changes.
+This repo can be used to construct a simple static web site for use with the Institut de Physique du Globe de Paris. It is based on Jekyll that converts markdown/yml formatted files into a static html web site. The static html web site can then be hosted on any web server, or alternatively, you can easily host your web site automatically on github. The web site uses the [al-folio theme](https://github.com/alshedivat/al-folio) with a few minor changes.
 
 ## How to modify this repo as quickly as possible
 
