@@ -8,7 +8,8 @@ nav_order: 6
 ---
 <font style="font-family: monospace; font-weight: bold">in person</font>
 * <span style="color: var(--global-text-color-light)">office :</span> 715, Lamarck A
-* <span style="color: var(--global-text-color-light)">mailing address :</span> PSS, Institut de Physique du Globe de Paris, 1 rue Jussieu, 75238 Paris cedex 05
+* <span style="color: var(--global-text-color-light)">mailing address :</span> Planetologie et Sciences Spatiaux, Institut de Physique du Globe de Paris, 1 rue Jussieu, 75238 Paris cedex 05
+* <span style="color: var(--global-text-color-light)">delivery address :</span> Planetologie et Sciences Spatiaux, Institut de Physique du Globe de Paris, 1 rue Jussieu, 75005 Paris
 * <span style="color: var(--global-text-color-light)">phone :</span> +33 1 57 27 84 30‬
 
 <font style="font-family: monospace; font-weight: bold"><b>online</b></font>
