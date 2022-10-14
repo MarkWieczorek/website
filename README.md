@@ -8,7 +8,7 @@ Full instructions on how to use this theme can be found on the [al-folio github 
 
 * Edit `_config.yml` to set up some of the system variables.
 * Replace the `_bibliography/papers.bib` file with a bibtex file that contains all of your publications.
-* Add the field `selected = {true},` to those bibtex entries that you want to appear on your home page. Also, please think of adding an `abstract` field so that this can be clicked on your web site.
+* Add the field `selected = {true},` to those bibtex entries that you want to appear on your home page. Also, please think of adding an `abstract` field so that this can be clicked on your web site. If you want to include a preview image, add the field `preview = {image.png}` and then add the image to the folder `assets/img/publication_preview/`.
 * All of the main content for the web pages is found in the `_pages` directory. You can enable or disable each of these pages by setting the variable `nav:` to `true` or `false`.
 * Edit your project pages in the folder `_projects`.
 * The data for the CV page is located in the file `_data/cv.yml`.
