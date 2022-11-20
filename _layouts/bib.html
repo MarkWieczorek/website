@@ -179,12 +179,10 @@
           {%- endif %}
           {%- if entry.doi %}
             <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">url</a>
-          {%- endif %}
-          {%- if entry.url %}
-            {% if entry.doi -%}
-            {%- else -%}
-            <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
-            {%- endif %}
+          {%- elsif entry.halid -%}
+            <a href="https://hal.archives-ouvertes.fr/{{ entry.halid }}" class="btn btn-sm z-depth-0" role="button">url</a>
+          {%- elsif entry.url -%}
+              <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
           {%- endif %}
           </div>
 

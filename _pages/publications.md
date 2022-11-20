@@ -9,7 +9,8 @@ nav_order: 2
 ---
 <!-- _pages/publications.md -->
 * **Orcid ID:** [0000-0001-7007-4222](https://orcid.org/0000-0001-7007-4222)
-* **Publons:** [G-6427-2010](https://www.webofscience.com/wos/author/rid/G-6427-2010)
+* **ResearcherID:** [G-6427-2010](https://www.webofscience.com/wos/author/rid/G-6427-2010)
+* **Google Scholar:** [9FWrY48AAAAJ](https://scholar.google.com/citations?user=9FWrY48AAAAJ)
 * **HAL (open archive):** [mark-wieczorek](https://cv.archives-ouvertes.fr/mark-wieczorek)
 
 <div class="publications">
