@@ -14,8 +14,8 @@ nav_order: 6
 
 <font style="font-family: monospace; font-weight: bold"><b>online</b></font>
 * <span style="color: var(--global-text-color-light)">keybase :</span> [keybase.io/markwieczorek](https://keybase.io/markwieczorek)
-* <span style="color: var(--global-text-color-light)">[matrix] :</span> [@mark-wieczorek:matrix.org](https://matrix.to/#/@mark-wieczorek:matrix.org)
-* <span style="color: var(--global-text-color-light)">email :</span> [&#109;&#097;&#114;&#107;&#046;&#119;&#105;&#101;&#099;&#122;&#111;&#114;&#101;&#107;&#064;&#099;&#110;&#114;&#115;&#046;&#102;&#114;](mailto:&#109;&#097;&#114;&#107;&#046;&#119;&#105;&#101;&#099;&#122;&#111;&#114;&#101;&#107;&#064;&#099;&#110;&#114;&#115;&#046;&#102;&#114;)
+* <span style="color: var(--global-text-color-light)">matrix :</span> [@mark-wieczorek:matrix.org](https://matrix.to/#/@mark-wieczorek:matrix.org)
+* <span style="color: var(--global-text-color-light)">email :</span> [&#109;&#97;&#114;&#107;&#46;&#119;&#105;&#101;&#99;&#122;&#111;&#114;&#101;&#107;&#64;&#99;&#110;&#114;&#115;&#46;&#102;&#114;](mailto:{{ site.email | encode_email }})
 * <span style="color: var(--global-text-color-light)">mastodon :</span> [@mrak@fosstodon.org](https://fosstodon.org/web/@mrak)
 * <span style="color: var(--global-text-color-light)">github :</span> [MarkWieczorek](https://github.com/MarkWieczorek)
 

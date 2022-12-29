@@ -250,11 +250,15 @@ blockquote {
   .contact-icons {
     font-size: 4rem;
     a {
+      color: var(--global-text-color);
+      transition-property: all 0.2s ease-in-out;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
+        text-decoration: none;
+        color: var(--global-theme-color);
         i::before {
           color: var(--global-theme-color);
         }

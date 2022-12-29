@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [missions, software, data]
+display_categories: [missions, software, community, data]
 horizontal: true
 ---
 <!-- pages/projects.md -->

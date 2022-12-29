@@ -189,7 +189,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
 
@@ -343,3 +343,11 @@ mdb:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
+# -----------------------------------------------------------------------------
+# Set defaults for jekyll-link-attributes pluggin
+# -----------------------------------------------------------------------------
+external_links:
+  enabled: true
+  rel: external noreferrer noopener
+  target: _blank
