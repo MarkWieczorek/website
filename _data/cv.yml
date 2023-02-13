@@ -1,7 +1,7 @@
 - title: Affiliation
   type: list
   contents:
-    - Université Paris Cité, Institut de Physique du Globe de Paris, CNRS, F-75005 Paris, France 
+    - Université Paris Cité, Institut de Physique du Globe de Paris, CNRS, F-75005 Paris, France
 - title: Professional Positions
   type: time_table
   contents:
@@ -103,4 +103,4 @@
     - name: Ph.D.s
       value: Julia Maia (2020-), Adrien Broquet (2017-2020), Jun Du (2017-2019), Shenxia Gong (2014-2016), Clément Thorey (2012–2015), Corrina Roy (2011-2014), Qian Huang (2009-2011), Matthieu Laneuville (2010-2013), Mathieu LeFeuvre (2008-2010), Virginie Beleguic (2003-2005).
     - name: Masters
-      value: Julia Maia (2020), Adrien Broquet (2016), Leila Gabasova (2016), Sébastien Labarre (2014), Romain Contant (2014), Simon Gernez (2012), Baptiste Mary (2011), Joachim Audouard (2010), Julie Cosmidis (2008), Mathieu LeFeuvre (2007).
+      value: Xi Yang (2022), Julia Maia (2020), Adrien Broquet (2016), Leila Gabasova (2016), Sébastien Labarre (2014), Romain Contant (2014), Simon Gernez (2012), Baptiste Mary (2011), Joachim Audouard (2010), Julie Cosmidis (2008), Mathieu LeFeuvre (2007).
