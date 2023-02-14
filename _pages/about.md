@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<a href="https://www.ipgp.fr/" style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>Institut de Physique du Globe de Paris</b></a><br />
-<a href="https://www.ipgp.fr/en/pss/planetary-and-space-sciences" style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>Planetary and Space Sciences group</b></a>
+<a href="https://www.ipgp.fr/en/" style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>Institut de Physique du Globe de Paris</b></a><br />
+<a href="https://www.ipgp.fr/en/research/teams/planetology-and-space-sciences/" style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>Planetary and Space Sciences group</b></a>
 <font style="color: var(--global-text-color-light)"><b>Senior research scientist</b></font>
 <br />
 
