@@ -13,6 +13,7 @@ nav_order: 3
 src="https://www.youtube.com/embed/A1PXF9wRgso" width=500 height=250>
 </iframe>
 
+<br />
 <font style="color: var(--global-text-color-light)"><b>Exploration of the Moon from antiquities to the present</b></font>
 [OpenPlanetary Lunch talk](https://www.openplanetary.org/), July 20, 2021
 <iframe
