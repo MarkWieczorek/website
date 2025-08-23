@@ -42,12 +42,18 @@
 - title: Professional Activities
   type: time_table
   contents:
-    - title: Editorial advisory board
-      institution: <a href="https://www.sciencedirect.com/journal/icarus/">Icarus</a> (Elsevier)
-      year: 2020 -
+    - title: Editor in chief
+      institution: <a href="https://planetary-research.org">Planetary Research</a>
+      year: 2026 -
+    - title: President, founding member
+      institution: <a href="https://coop.planetary-research.org">Planetary Research Cooperative</a>
+      year: 2025 -
     - title: Board of directors
       institution: <a href="https://www.openplanetary.org/">OpenPlanetary</a>
       year: 2020 -
+    - title: Editorial advisory board
+      institution: <a href="https://www.sciencedirect.com/journal/icarus/">Icarus</a> (Elsevier)
+      year: 2020 - 2025
     - title: Editor in chief
       institution: <a href="https://agupubs.onlinelibrary.wiley.com/journal/21699100">Journal of Geophysical Research Planets</a> (American Geophysical Union)
       year: 2011 - 2015
