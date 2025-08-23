@@ -10,21 +10,21 @@ nav_order: 3
 <font style="color: var(--global-text-color-light)"><b>Open Planetary Science</b></font>
 [Europlanet Society Webinar](https://www.europlanet.org/), March 4, 2025
 <iframe
-src="https://www.youtube.com/embed/A1PXF9wRgso" width=500 height=250>
+src="https://solarsystem.video/videos/embed/d7vd9Q1pjcGwsc7Zwacomz" width=500 height=250>
 </iframe>
 
 <br />
 <font style="color: var(--global-text-color-light)"><b>Exploration of the Moon from antiquities to the present</b></font>
 [OpenPlanetary Lunch talk](https://www.openplanetary.org/), July 20, 2021
 <iframe
-src="https://www.youtube.com/embed/G4x-Y40kTNI" width=500 height=250>
+src="https://solarsystem.video/videos/embed/9UBtP4QgmFz4yBQJ6pQRmx" width=500 height=250>
 </iframe>
 
 <br />
 <font style="color: var(--global-text-color-light)"><b>Everything you should know about the scientific review process</b></font>
 [OpenPlanetary Lunch talk](https://www.openplanetary.org/), October 13, 2020
 <iframe  
-src="https://www.youtube.com/embed/bD9EgpcHFOo" width=500 height=250>   
+src="https://solarsystem.video/videos/embed/iL9bM134quoakVSxD8cUjQ" width=500 height=250>   
 </iframe>
 
 <br />
